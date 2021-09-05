@@ -1,0 +1,2 @@
+class Guidline < ApplicationRecord
+end
